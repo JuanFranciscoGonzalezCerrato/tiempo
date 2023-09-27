@@ -49,3 +49,36 @@ h1{
 .nocolor-img{
   filter: brightness(0);
 }
+
+/* Estilo de fondo de otoño */
+.autumn-background {
+	background-image: url('imagenes/otoño.jpg'); /* Ruta a la imagen de otoño */
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  }
+  
+  /* Estilo de fondo de invierno */
+  .winter-background {
+	background-image: url('imagenes/invierno.jpg'); /* Ruta a la imagen de invierno */
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  }
+  
+  /* Estilo de fondo de primavera */
+  .spring-background {
+	background-image: url('imagenes/primavera.jpg'); /* Ruta a la imagen de primavera */
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  }
+  
+  /* Estilo de fondo de verano */
+  .summer-background {
+	background-image: url('imagenes/verano.jpg'); /* Ruta a la imagen de verano */
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  }
+  
